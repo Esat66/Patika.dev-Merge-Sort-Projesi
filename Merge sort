@@ -1,0 +1,43 @@
+# Patika.dev-Merge-Sort-Projesi
+** Patika.dev Veri Yapıları ve Algoritmalar Kursu Merge Sort Projesi **
+***
+Big O notationu ==
+
+her seferinde yarıya bölünüyor
+
+n, n/2, *****, 1
+
+2x = n
+
+logn = x
+
+O(logn)
+
+**[16,21,11,8,12,22]**
+Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
+>[16,21,11,8,12,22]
+
+>[16,21,11] , [8,12,22]
+
+>[16,21] , [11]  ,  [8,12] , [22]
+
+>[16]  ,  [21]  ,  [11]  ,  [8]  ,  [12]  ,  [22]
+
+>[16,21] , [11]  ,  [8,12] , [22]
+
+>[11,16,21]  ,  [8,12,22]
+
+>[8,11,12,16,21,22]
+
+
+
+
+
+
+
+
+
+
+
+
